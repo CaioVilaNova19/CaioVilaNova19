@@ -1,53 +1,74 @@
 <div align="center">
-  <h1>Olá, eu sou o Caio Vila Nova! 👨‍💻</h1>
-  <h3>Dev Mobile & Backend | Data Enthusiast | CyberSec Hobbyist</h3>
-  <p><i>"Transformando dados em insights e café em código."</i></p>
+<pre>
+      .---.
+     /     \
+    |  o_o  |    <b>CAIO VILA NOVA</b>
+    |   |   |    <i>Architect at Jovian</i>
+   / \  _  / \   <i>Project Baccus Lead</i>
+  /   \/ \/   \
+ /             \
+</pre>
+  <h3>🏛️ Mobile & Backend Architect | CyberSec | Data Science</h3>
+  <p><i>"Construindo o futuro com a solidez do passado."</i></p>
 </div>
 
 ---
 
-### 🧐 Sobre Mim
+### 📜 O Manifesto
 
-Sou um desenvolvedor versátil que transita entre o **baixo nível** e a **experiência do usuário**. No meu dia a dia, foco em automação corporativa e desenvolvimento mobile, mas minha paixão se estende à **Inteligência Artificial Generativa** e **Cibersegurança**.
+Bem-vindo. Sou um desenvolvedor focado na intersecção entre a **precisão do baixo nível (C)** e a **fluidez da experiência móvel (Flutter)**. Atualmente, orquestro soluções na **Jovian**, onde transformamos caos em ordem através de código.
 
-* 🔭 **Atualmente trabalhando com:** Automação de processos (VBA/Python) e Mobile (Flutter).
-* 🌱 **Estudando:** Deep Learning com **PyTorch** e Segurança Ofensiva (CTFs e Pentest tools).
-* 🐧 **Hobbies:** Sou heavy user de terminal e Linux.
+Minha filosofia de código é baseada na performance e na segurança. Seja treinando redes neurais ou protegendo infraestruturas, busco a elegância da lógica pura.
+
+* 🔭 **Foco Atual:** Arquitetura de Software e Automação Corporativa (VBA/Python).
+* ⚡ **Arsenal:** PyTorch, C, Engenharia Reversa e Pentest.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🏛️ Os Pilares (Tech Stack)
 
-Organizei minhas habilidades por áreas de atuação para facilitar a visualização:
-
-#### 📱 Desenvolvimento & Backend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### 🏗️ Arquitetura & Desenvolvimento
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### 📊 Dados, IA & Automação
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#### 🔮 Oráculo de Dados & IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🔐 Security & Terminal
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+#### 🛡️ A Égide (Sec & Tools)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA_Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-### 💻 Meu Ambiente (Terminal)
+### 🌩️ Estatísticas
+
+Aqui estão as linguagens mais utilizadas baseadas nos meus commits reais, geradas dinamicamente.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham&hide_border=true&bg_color=000000" height="160" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=gotham&hide_border=true&bg_color=000000" height="160" alt="langs" />
+</div>
+
+---
+
+### 💻 Jovian Terminal
 
 ```bash
-user@github:~$ neofetch
------------------------
-OS:       Mindset Híbrido (Dev + Data + Sec)
-Shell:    ZSH / Bash
-Languages: Python, C, Java, Dart, VBA
-Focus:    Generative AI & Network Security
-Status:   Building cool stuff...
+root@olympus:~$ ./neofetch --config jovian
+------------------------------------------
+Host:      Jovian Mainframe
+Kernel:    Hybrid (Logic + Creativity)
+Uptime:    Building Baccus...
+Shell:     ZSH (CyberSec Mode)
+DE:        Flutter (Mobile)
+GPU:       PyTorch Accelerated
+Memory:    C Pointers & Allocations
+------------------------------------------
+root@olympus:~$ _
