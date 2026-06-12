@@ -2,7 +2,9 @@
   <h1>🏛️ CAIO VILA NOVA</h1>
   <p><i>Engenharia de Software, Inteligência Artificial e Cibersegurança</i></p>
 </div>
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 ---
 
 ### 📜 O Manifesto
